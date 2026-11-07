@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=ImPPG
+Comment=Image Post-Processor
+Exec=/usr/local/bin/imppg
+Icon=/usr/local/share/imppg/images/imppg-app.png
